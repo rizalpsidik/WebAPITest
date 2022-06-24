@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "y0ZVjf8rFvfrfNBPejfgYv8mRPMifCl6qs0Dqk2LzMKrB0fcfR/wXZ6ejq+kz42ycxBdxolJAEXArwD3MZZt3Q==",
+  "success": true,
+  "projectFilePath": "D:\\Data\\02 Development\\Applicaton\\WebAPITest\\webtestapi\\webtestapi\\src\\WebAPITest\\WebAPITest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rizal Purnama Sidik\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Rizal Purnama Sidik\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Rizal Purnama Sidik\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Rizal Purnama Sidik\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Rizal Purnama Sidik\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Rizal Purnama Sidik\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
